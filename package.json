@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.100.0",
+    "@google/genai": "^0.5.0"
+  }
+} 
