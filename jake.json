@@ -1,0 +1,161 @@
+{
+    "full_name": "Jake Goldman",
+    "current_position": "President & Founder at 10up, Partner at Fueled",
+    "location": "Roseville, California, US",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Management Information Systems (with minors in Economics and Film Studies)",
+        "institution": "University of Rhode Island",
+        "years": "2000-2004"
+      }
+    ],
+    "skills": [
+      "WordPress Development",
+      "Web Development",
+      "Digital Agency Leadership",
+      "Open Source Contribution",
+      "Business Strategy",
+      "Content Management",
+      "Entrepreneurship",
+      "Agency Growth",
+      "Digital Innovation",
+      "Client Relationship Management"
+    ],
+    "certifications": [],
+    "languages": [],
+    "awards": [],
+    "professional_summary": "Jake Goldman is the founder of 10up, a digital agency with 300+ staff globally that specializes in creating websites, apps, and digital tools using open platforms like WordPress, React, and Swift. Over 12 years, he bootstrapped the company to serve major clients like Salesforce, Hilton, Harvard, and Disney. In 2023, he led a merger with product and app design agency Fueled, where he continues as a Partner and significant shareholder. Goldman has been contributing to WordPress and web development since the 1990s and is known for his commitment to an open and sustainable internet.",
+    "work_experience": [
+      {
+        "job_title": "President & Founder",
+        "company": "10up",
+        "duration": "February 2011 - Present",
+        "description": "Founded and grew 10up to more than 270 full-time employees working remotely worldwide. Focused on business development, culture and vision, marketing communications, and overall company growth strategy. Served major clients including ESPN, Microsoft, TechCrunch, Google, New York Times, Walmart, Time, Salesforce, and Starbucks.",
+        "notable_achievements": [
+          "Bootstrapped company to ~300 full time staff working remotely from around the globe",
+          "Secured high-profile clients like Salesforce, Hilton, Harvard, and Disney",
+          "Shipped flagship projects like WhiteHouse.gov and Google's Site Kit",
+          "Led successful merger with Fueled in 2023"
+        ]
+      },
+      {
+        "job_title": "Partner",
+        "company": "Fueled + 10up",
+        "duration": "September 2023 - Present",
+        "description": "Led merger between 10up and Fueled, combining WordPress/CMS expertise with mobile and enterprise application development capabilities. Continues as Partner and significant shareholder in the merged entity.",
+        "notable_achievements": [
+          "Successfully integrated two leading digital agencies",
+          "Maintained WordPress practice under 10up brand within Fueled"
+        ]
+      },
+      {
+        "job_title": "Technology Director",
+        "company": "Oomph, Inc.",
+        "duration": "June 2008 - February 2011",
+        "description": "Joined as owner's first hire, helped grow to 10 employees in under 3 years. Provided technical leadership, mentoring, and client management.",
+        "notable_achievements": [
+          "Helped grow the business to 10 employees in less than 3 years",
+          "Led hiring/recruitment of all staff hired during tenure",
+          "Earned company placement on WordPress.com VIP consultants list",
+          "Actively involved in lead generation through speaking engagements and publishing"
+        ]
+      },
+      {
+        "job_title": "Technical Area Manager, Media Development",
+        "company": "Advanced Solutions for Tomorrow, Inc",
+        "duration": "May 2006 - June 2008",
+        "description": "Managed team providing multimedia services including web development, graphics design, programming, video production, and interactive content. Led proposal efforts for government contracts and developed new commercial customer base.",
+        "notable_achievements": [
+          "Led winning contract to develop interactive multimedia instruction for submarine imaging systems",
+          "Hired/recruited 5 new employees during tenure",
+          "Certified internal auditor and member of Corporate Quality Team"
+        ]
+      }
+    ],
+    "blog_summary": "Jake Goldman's blog posts primarily focus on company updates, industry recognition, client success stories, and technological innovations. Key themes include the 10up and Fueled merger, award-winning client projects, WordPress advancements, AI integration in publishing, and government digital transformation. The blog serves both as a professional portfolio showcase and thought leadership platform in the WordPress and digital agency space.",
+    "writing_style": "Professional yet conversational, with a focus on accomplishments and collaborative success. Goldman writes with authority but maintains accessibility, often using first-person perspective when discussing company achievements. His writing balances technical expertise with business strategy insights, frequently highlighting client partnerships and team contributions rather than personal accolades.",
+    "personality_traits": [
+      "Entrepreneurial",
+      "Strategic",
+      "Collaborative",
+      "Detail-oriented",
+      "Forward-thinking"
+    ],
+    "values": [
+      "Open source contribution",
+      "Craftsmanship",
+      "Innovation",
+      "Collaboration",
+      "Client service excellence",
+      "Sustainable internet"
+    ],
+    "notable_quotes": [
+      "Fueled is to mobile and enterprise-grade online applications what 10up has been to WordPress and online content management and publishing: an innovator and leader driven by the values of customer service, creativity, and craftsmanship.",
+      "The name may be familiar, but our revitalized identity encapsulates our collective achievements and boldly speaks to a time of transformation.",
+      "Having personally been a part of multiple redesigns and upgrades with TechCrunch over more than a decade, it was a pleasure to see our team launch one of their biggest upgrades to this day."
+    ],
+    "public_opinions": [
+      "Strong advocate for WordPress and open source technologies",
+      "Believes in the importance of craftsmanship in digital experiences",
+      "Supports remote work culture and distributed teams",
+      "Values partnerships and collaboration in the digital agency space"
+    ],
+    "topics_of_interest": [
+      "WordPress Development",
+      "Open Source Technology",
+      "Digital Agency Growth",
+      "Client Success Stories",
+      "AI Integration in Publishing",
+      "Digital Transformation",
+      "Content Management Systems",
+      "Mobile Application Development",
+      "Web Performance",
+      "Government Digital Innovation"
+    ],
+    "social_links": [
+      "https://www.linkedin.com/in/jacobgoldman/"
+    ],
+    "keywords": [
+      "WordPress",
+      "Digital Agency",
+      "Open Source",
+      "Web Development",
+      "Fueled",
+      "Content Management",
+      "Client Partnerships",
+      "Innovation",
+      "Digital Transformation",
+      "Remote Work"
+    ],
+    "sample_qa": [
+      {
+        "question": "What led you to start 10up?",
+        "answer": "I've been crafting web experiences since websites became a thing in the 1990s. In 2011, I founded 10up with a mission to make finely crafted, easy to manage websites powered by open platforms, with a major focus on becoming a leading WordPress consultancy."
+      },
+      {
+        "question": "How do you approach mergers and partnerships?",
+        "answer": "When Fueled and 10up joined in 2023, we aligned two leading agencies, each renowned for innovation, craftsmanship, and excellence. I look for partners whose values align with ours - customer service, creativity, and craftsmanship - and who can complement our strengths to provide more value to clients."
+      },
+      {
+        "question": "What is your approach to integrating AI in publishing?",
+        "answer": "When working with publishers like Penske Media Corporation (PMC), we focus on a close-knit collaboration that leverages existing open source AI tools like our ClassifAI. We prioritize improving editorial workflow productivity, enhancing visitor engagement, and driving SEO through iterative testing and deployment of AI features."
+      }
+    ],
+    "source_references": {
+      "full_name": "LinkedIn profile",
+      "current_position": "LinkedIn profile",
+      "location": "LinkedIn profile",
+      "education": "LinkedIn profile",
+      "skills": "Inferred from LinkedIn profile and blog posts",
+      "professional_summary": "LinkedIn profile summary and blog posts",
+      "work_experience": "LinkedIn profile",
+      "blog_summary": "10up blog posts",
+      "writing_style": "Analysis of 10up blog posts",
+      "notable_quotes": "10up blog posts",
+      "topics_of_interest": "LinkedIn profile and blog posts",
+      "social_links": "LinkedIn profile URL",
+      "keywords": "Analysis of LinkedIn profile and blog posts content"
+    }
+  }
+  
