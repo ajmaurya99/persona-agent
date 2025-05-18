@@ -1,6 +1,12 @@
+import 'dotenv/config';
 import OpenAI from "openai";
-import jakeData from "../jake.json" assert { type: "json" };
+import { readFile } from "fs/promises";
 import { GoogleGenAI } from "@google/genai";
+
+// Read and parse jake.json using fs/promises for ESM compatibility
+const jakeData = JSON.parse(
+  await readFile(new URL("../jake.json", import.meta.url), "utf-8")
+);
 
 const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
