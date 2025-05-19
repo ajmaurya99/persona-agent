@@ -41,7 +41,7 @@ export default async function handler(req, res) {
       reply = response.text;
     } else {
       const response = await client.chat.completions.create({
-        model: "gpt-4",
+        model: "gpt-4o",
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: message },

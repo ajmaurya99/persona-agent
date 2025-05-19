@@ -98,8 +98,8 @@
 <body>
   <div id="chat-container">
     <select id="model-select">
-      <option value="openai">OpenAI</option>
-      <option value="gemini">Gemini</option>
+      <option value="gemini">Gemini (gemini-2.0-flash)</option>
+      <option value="openai">OpenAI (gpt-4o)</option>
     </select>
     <div id="messages"></div>
     <div class="input-row">
@@ -126,7 +126,7 @@
         body: JSON.stringify({ message, model })
       });
       const data = await res.json();
-      messagesDiv.innerHTML = `<b style='color:#0073aa'>You:</b> ${message}<br><b style='color:#005f8d'>Jake:</b> ${data.reply}`;
+      messagesDiv.innerHTML = `<b style='color:#0073aa'>You:</b> ${message}<br><br><b style='color:#005f8d'>Jake:</b> ${data.reply}`;
     };
     userInput.addEventListener('keydown', e => { if (e.key === 'Enter') sendBtn.click(); });
   </script>
